@@ -8,3 +8,9 @@
      * With some
      * Sub bullets
 </details>
+<details>
+  <summary>TypeScript</summary>
+  
+  1. [Typescript advantages ans disadvantages](https://github.com/haoyunfeix/note/issues/10)
+  2. 
+</details>
